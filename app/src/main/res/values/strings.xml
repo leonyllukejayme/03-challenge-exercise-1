@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">03-laboratory-exercise-1</string>
+
+    <string name="btn_send">Send</string>
+    <string name="edit_message">Your Message Here</string>
+    <string name="btn_clear">Clear</string>
+
+</resources>
